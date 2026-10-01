@@ -1,0 +1,8 @@
+name = "arogyabot-ai"
+main = "worker.js"
+compatibility_date = "2026-08-01"
+
+# Secrets (never put real keys in this file — set them with `wrangler secret put`):
+#   wrangler secret put GEMINI_API_KEY
+#   wrangler secret put GROQ_API_KEY
+#   wrangler secret put OPENROUTER_API_KEY
